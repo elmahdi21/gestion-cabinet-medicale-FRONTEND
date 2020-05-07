@@ -26,7 +26,28 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/jquery.min.js",
+              "node_modules/bootstrap/dist/js/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap-material-design.min.js",
+              "node_modules/bootstrap/dist/js/perfect-scrollbar.jquery.min.js",
+              "node_modules/bootstrap/dist/js/moment.min.js",
+              "node_modules/bootstrap/dist/js/sweetalert2.js",
+              "node_modules/bootstrap/dist/js/jquery.validate.min.js",
+              "node_modules/bootstrap/dist/js/jquery.bootstrap-wizard.js",
+              "node_modules/bootstrap/dist/js/bootstrap-selectpicker.js",
+              "node_modules/bootstrap/dist/js/bootstrap-datetimepicker.min.js",
+              "node_modules/bootstrap/dist/js/jquery.dataTables.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap-tagsinput.js",
+              "node_modules/bootstrap/dist/js/jasny-bootstrap.min.js",
+              "node_modules/bootstrap/dist/js/fullcalendar.min.js",
+              "node_modules/bootstrap/dist/js/jquery-jvectormap.js",
+              "node_modules/bootstrap/dist/js/nouislider.min.js",
+              "node_modules/bootstrap/dist/js/arrive.min.js",
+              "node_modules/bootstrap/dist/js/chartist.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap-notify.js"
+              
+            ]
           },
           "configurations": {
             "production": {
